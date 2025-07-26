@@ -1,1 +1,1 @@
-consoele.log('commit 3');
+consoele.log('conflict 1');
